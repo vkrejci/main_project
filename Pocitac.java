@@ -29,5 +29,7 @@ public class Pocitac
 
 //== Nesoukromé metody (instancí i třídy) ===============================================
 //== Soukromé metody (instancí i třídy) ===========================================
-
+private Nevim(){
+ int cislo = 5;
+}
 }
