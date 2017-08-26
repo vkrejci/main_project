@@ -1,4 +1,4 @@
-﻿
+
 
 /*******************************************************************************
  * Třída Pocitac představuje jeden počítač. Je součástí projektu na evidenci
@@ -31,9 +31,5 @@ public class Pocitac
 //== Soukromé metody (instancí i třídy) ===========================================
 private Nevim(){
  int cislo = 5;
-}
-
-private Fuu(){
-int blbost = 8;
 }
 }
